@@ -8,9 +8,6 @@ from llamaapi import LlamaAPI
 
 
 
-
-
-
 llama = LlamaAPI('................................................................')
 
 def fetch_gemini_insights(transcript_chunk: str) -> dict:
